@@ -1,0 +1,12 @@
+﻿礼包ID,礼包类型0=普通激活码1特殊激活码,激活码ID,礼包名称,内容1类型1=金币2钻石3体力4道具,内容1ID,内容1数量,内容2类型,内容2ID,内容2数量,内容3类型,内容3ID,内容3数量,内容4类型,内容4ID,内容4数量,内容5类型,内容5ID,内容5数量
+PackageID_s,PackageType_n,SpecCDKey_s,PackageName_s,Content1Type_n,Content1ID_s,Content1Count_n,Content2Type_n,Content2ID_s,Content2Count_n,Content3Type_n,Content3ID_s,Content3Count_n,Content4Type_n,Content4ID_s,Content4Count_n,Content5Type_n,Content5ID_s,Content5Count_n
+WX_Gold_1000_Energy_50,1,wxlb001,微信礼包,1,,1000,3,,50,0,,0,0,,0,0,,0
+Q_Gold_1000_Diamond_50,0,,Q群礼包,1,,1000,2,,50,0,,0,0,,0,0,,0
+ZC_Gold_1000_Diamond_100,0,,捉虫小礼包,1,,1000,2,,100,0,,0,0,,0,0,,0
+ZC_Gold_3000_Diamond_300,0,,捉虫中礼包,1,,3000,2,,300,0,,0,0,,0,0,,0
+ZC_Gold_5000_Diamond_500,0,,捉虫大礼包,1,,5000,2,,500,0,,0,0,,0,0,,0
+FC_Hero_1_Diamond_200,0,,封测英雄礼包,2,,200,0,,0,0,,0,0,,0,0,,0
+LT_Diamond_150,1,,联通150钻石礼包,2,,150,0,,0,0,,0,0,,0,0,,0
+LT_Diamond_400,1,,联通400钻石礼包,2,,400,0,,0,0,,0,0,,0,0,,0
+MTDJ_Diamond_100_Gold_1000,1,,媒体独家礼包,2,,100,1,,1000,0,,0,0,,0,0,,0
+SCMT_Diamond_200_Gold_2000,1,,首测媒体礼包,2,,200,1,,2000,0,,0,0,,0,0,,0

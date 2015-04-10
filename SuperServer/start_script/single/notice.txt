@@ -1,0 +1,4 @@
+super_server脚本是用来启动单服务器情况下所有节点的
+stop_server脚本是正常退出所有节点的
+kill_server是直接kill所有节点进程的，慎用！
+

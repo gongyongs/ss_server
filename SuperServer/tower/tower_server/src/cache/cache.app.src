@@ -1,0 +1,8 @@
+{application, cache,
+ [{description, "CACHE"},
+  {vsn, "1.0.0"},
+  {modules, [cache]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {cache_app, []}}]}.

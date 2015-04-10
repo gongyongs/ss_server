@@ -1,0 +1,5 @@
+﻿类型,道具ID,价格,时间,折扣
+Type_kn,ToolID_s,Price_n,Data_s,Off_n
+1,shard_01_02,120,,0
+2,shard_01_03,960,,8
+0,shard_01_02,0,,0

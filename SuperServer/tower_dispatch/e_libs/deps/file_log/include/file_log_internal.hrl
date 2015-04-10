@@ -1,0 +1,2 @@
+-define(FILE_LOGMOD, 'file_dynamic_log').
+-type file_log_level() :: error | warning| info | debug.

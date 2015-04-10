@@ -1,0 +1,50 @@
+file_log是一个独立的application, 不依赖任何外部的application,
+可以独立使用, 使用之前需要配置file_log.app
+
+  %%%                   ==========
+  %%%                   log config
+  %%%
+  %%% level           - error | warning | info | debug
+  %%% rotate_interval - seconds
+  %%%
+  %%% e.g.
+  %%% 3600 * 6 = 21600 seconds
+
+  {env, [{path, "/var/log/file_log.log"},
+         {level, debug},
+         {rotate_interval, 21600}]},
+
+
+使用的时候, 只需要包含下面这个头文件即可:
+-include("file_log.hrl").
+
+application:start(file_log),
+
+?FILE_LOG_SET_LEVEL(error),
+?FILE_LOG_ERROR("this is error msg [error-level]", []),
+%% 在error级别下, 下面内容不应该打印
+?FILE_LOG_WARNING("ERROR#this is warning msg [error-level]", []),
+?FILE_LOG_INFO("ERROR#this is info msg [error-level]", []),
+?FILE_LOG_DEBUG("ERROR#this is debug msg [error-level]", []),
+
+?FILE_LOG_SET_LEVEL(warning),
+?FILE_LOG_ERROR("this is error msg [warning-level]", []),
+?FILE_LOG_WARNING("this is warning msg [warning-level]", []),
+%% 在warning级别下, 下面内容不应该打印
+?FILE_LOG_INFO("ERROR#this is info msg [warning-level]", []),
+?FILE_LOG_DEBUG("ERROR#this is debug msg [warning-level]", []),
+
+
+?FILE_LOG_SET_LEVEL(info),
+?FILE_LOG_ERROR("this is error msg [info-level]", []),
+?FILE_LOG_WARNING("this is warning msg [info-level]", []),
+?FILE_LOG_INFO("this is info msg [info-level]", []),
+%% 在info级别下, 下面内容不应该打印
+?FILE_LOG_DEBUG("ERROR#this is debug msg [info-level]", []),
+
+
+?FILE_LOG_SET_LEVEL(debug),
+?FILE_LOG_ERROR("this is error msg [debug-level]", []),
+?FILE_LOG_WARNING("this is warning msg [debug-level]", []),
+?FILE_LOG_INFO("this is info msg [debug-level]", []),
+?FILE_LOG_DEBUG("this is debug msg [debug-level]", []).

@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b932fa-2e3f-4019-98c5-399001e9740f" name="Default" comment="" />
+    <ignored path="tower_dispatch_server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/a.dummy" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418615015312" ignored="false" />
+    <file path="/emake.config" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406107445941" ignored="false" />
+    <file path="/token_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406032991190" ignored="false" />
+    <file path="/master_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417868803310" ignored="false" />
+    <file path="/dispatch_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406108671537" ignored="false" />
+    <file path="/login_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406034198223" ignored="false" />
+    <file path="/public.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417146725669" ignored="false" />
+    <file path="/dispatch.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406023103291" ignored="false" />
+    <file path="/database.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410487628954" ignored="false" />
+    <file path="/token_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406023800942" ignored="false" />
+    <file path="/dispatch_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418472780564" ignored="false" />
+    <file path="/master.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417930143956" ignored="false" />
+    <file path="/master_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418545882472" ignored="false" />
+    <file path="/token_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410853348497" ignored="false" />
+    <file path="/login_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417951123479" ignored="false" />
+    <file path="/mod_register.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351943208" ignored="false" />
+    <file path="/dispatch_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418624241264" ignored="false" />
+    <file path="$PROJECT_DIR$/../../work/xj_ds/e_dispatch_server/src/dispatch/mod/mod_register.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406083206436" ignored="false" />
+    <file path="/login_cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418626247511" ignored="false" />
+    <file path="/login.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417346569544" ignored="false" />
+    <file path="/login_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418625283694" ignored="false" />
+    <file path="/dd_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418124431616" ignored="false" />
+    <file path="/database_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418649019787" ignored="false" />
+    <file path="$PROJECT_DIR$/../../work/xj_ds/e_dispatch_server/src/dbmgr/dbmgr_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406102389832" ignored="false" />
+    <file path="/masterctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406106460352" ignored="false" />
+    <file path="/databasectl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406106578366" ignored="false" />
+    <file path="/dispatchctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406106751470" ignored="false" />
+    <file path="/loginctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406106867606" ignored="false" />
+    <file path="/tokenctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406107040862" ignored="false" />
+    <file path="/token_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413373830612" ignored="false" />
+    <file path="/dispatch_deps.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406109059468" ignored="false" />
+    <file path="/token_deps.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406109432098" ignored="false" />
+    <file path="/database_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416809023000" ignored="false" />
+    <file path="/mod_login.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418218970756" ignored="false" />
+    <file path="$PROJECT_DIR$/../../work/xj_ds/e_dispatch_server/src/dd_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406166857085" ignored="false" />
+    <file path="/game_server_cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1412840072937" ignored="false" />
+    <file path="/token_cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418626929956" ignored="false" />
+    <file path="/token_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351829539" ignored="false" />
+    <file path="/token.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351030795" ignored="false" />
+    <file path="/database_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406541314945" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929384950" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/master/master.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417930143956" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/master/master_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418545882472" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929336459" ignored="false" />
+    <file path="/gateway_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406185303554" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/gatewayctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406185519327" ignored="false" />
+    <file path="/gatewayctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406185518683" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/var/config/public.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417150453113" ignored="false" />
+    <file path="/mod_game_server_register.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410502840264" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418295591448" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_login.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269115673" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406987910328" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418128443898" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929357551" ignored="false" />
+    <file path="/session_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406197717398" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413796538038" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831517082" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413860338124" ignored="false" />
+    <file path="/session_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413786666102" ignored="false" />
+    <file path="/session_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831459842" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/dd_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418471912105" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418548236189" ignored="false" />
+    <file path="/gateway_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418548231642" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418471980696" ignored="false" />
+    <file path="/gateway_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406204744351" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418648124182" ignored="false" />
+    <file path="/gateway_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418648123638" ignored="false" />
+    <file path="/mod_token_verify.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413373872211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/sessionctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413951908821" ignored="false" />
+    <file path="/sessionctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413951908821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../WorldCup/ddr/src/gateway/gateway_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406513194279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../WorldCup/ddr/src/gateway/gateway_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406513901647" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929316681" ignored="false" />
+    <file path="/cache_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416216120897" ignored="false" />
+    <file path="$PROJECT_DIR$/../../xj_gs/e_game_server/src/cache/cache_ms.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406549133786" ignored="false" />
+    <file path="/cache_ms.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406549132384" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418128364821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/csv.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418281981830" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/csv.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418367456993" ignored="false" />
+    <file path="/csv.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418281868043" ignored="false" />
+    <file path="/csv.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418367317186" ignored="false" />
+    <file path="/gateway_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418295588690" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_def.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418283087335" ignored="false" />
+    <file path="/cache_def.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418283087335" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643780100" ignored="false" />
+    <file path="/cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643708490" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418648841305" ignored="false" />
+    <file path="/cache_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418648828432" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_data_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418618908114" ignored="false" />
+    <file path="/cache_data_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418618860795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../xj_gs/e_game_server/src/cache/cache_data_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406796455142" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418651072340" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418286491579" ignored="false" />
+    <file path="/database_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418286489584" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/csv/InitialAccount.csv" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406966751816" ignored="false" />
+    <file path="/InitialAccount.csv" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406873966257" ignored="false" />
+    <file path="/guid_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406963665609" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/guid/guid_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406956381163" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/guid/guid_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406876197553" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/guid/guid_alloc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406957430254" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/guidctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406947918951" ignored="false" />
+    <file path="/guidctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406946809161" ignored="false" />
+    <file path="/guid_alloc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406957393276" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_guid.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406991093286" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418536941608" ignored="false" />
+    <file path="/cache_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418536917931" ignored="false" />
+    <file path="/cache_guid.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406991092801" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_csv.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418470933065" ignored="false" />
+    <file path="/cache_csv.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418470929443" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/var/config/guid.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406946662416" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418549247953" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/csv/Material.csv" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406958808690" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/guid/guid_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406963679050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417868982074" ignored="false" />
+    <file path="/gateway_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417868853672" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/dd_ms.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406969470301" ignored="false" />
+    <file path="/dd_ms.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406969458992" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406971369848" ignored="false" />
+    <file path="/cache_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406971209907" ignored="false" />
+    <file path="/cache_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417940921457" ignored="false" />
+    <file path="/cache_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418547577219" ignored="false" />
+    <file path="E:/erl5.9.2/lib/stdlib-1.18.2/src/gb_trees.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406978920790" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_alloc_guid.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406983759247" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_guid_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406990104679" ignored="false" />
+    <file path="/database_guid_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406989986003" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/database/database_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418130175993" ignored="false" />
+    <file path="/database_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416807328568" ignored="false" />
+    <file path="/database.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1406987908830" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_user_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269108881" ignored="false" />
+    <file path="/mod_get_user_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220829736" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269058565" ignored="false" />
+    <file path="/mod_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418218228149" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/back.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407233615619" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/csv/Tollgate.csv" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407245227234" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/deps/file_log/include/file_log.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407322369049" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/admin/admin_cache_proxy.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407326492637" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_strengthen.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269196531" ignored="false" />
+    <file path="/mod_strengthen.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980653108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_replace_equipment.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220295932" ignored="false" />
+    <file path="/mod_replace_equipment.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980607832" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_sell_material.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269154775" ignored="false" />
+    <file path="/mod_sell_material.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980626273" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/dd_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407467800703" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407479269488" ignored="false" />
+    <file path="/time_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407478608548" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407478630771" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407478951306" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407483784480" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_world_block.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831648436" ignored="false" />
+    <file path="/mod_world_block.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407480919579" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_test_add.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831646053" ignored="false" />
+    <file path="/mod_test_add.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980687542" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407487949454" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/time/time_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407487578117" ignored="false" />
+    <file path="/time_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407487557409" ignored="false" />
+    <file path="/time.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407487943089" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_update_to_time.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414740624390" ignored="false" />
+    <file path="/cache_update_to_time.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414561087577" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_world_map_block.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269206515" ignored="false" />
+    <file path="/mod_world_map_block.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980677607" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/admin_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1407914166991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_admin_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418555843716" ignored="false" />
+    <file path="/cache_admin_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418554899357" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_admin.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416540861690" ignored="false" />
+    <file path="/cache_admin.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416540860099" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_login_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269073026" ignored="false" />
+    <file path="/mod_get_login_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410245503272" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_mission.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416398137784" ignored="false" />
+    <file path="/cache_mission.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416398133645" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415620283754" ignored="false" />
+    <file path="/cache_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415620272001" ignored="false" />
+    <file path="/__dummy.js" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1408365185095" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_api.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418287420781" ignored="false" />
+    <file path="/cache_api.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418287421086" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_admin_action.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418552570488" ignored="false" />
+    <file path="/mod_admin_action.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418552565657" ignored="false" />
+    <file path="/mod_admin_get.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1408542958688" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_admin_get.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1408542959547" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_buy_goods.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269048309" ignored="false" />
+    <file path="/mod_buy_goods.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831574574" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_account_def.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418283486578" ignored="false" />
+    <file path="/cache_account_def.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418283486578" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_mission_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269082805" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_achievement_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269061528" ignored="false" />
+    <file path="/mod_get_achievement_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980309586" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_endless_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269052016" ignored="false" />
+    <file path="/mod_endless_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413981261942" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_activity_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269038211" ignored="false" />
+    <file path="/mod_activity_game_end.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269034747" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_reset_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416831627404" ignored="false" />
+    <file path="/mod_reset_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1409905509103" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_friend_endless_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269069851" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_server_endless_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269092844" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/ranking/ranking.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410313745808" ignored="false" />
+    <file path="/ranking.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410258290211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/ranking/ranking_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417668369631" ignored="false" />
+    <file path="/ranking_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411805221998" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/ranking/ranking_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417936200372" ignored="false" />
+    <file path="/ranking_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414116265949" ignored="false" />
+    <file path="/mod_get_friend_endless_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980340802" ignored="false" />
+    <file path="/token.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410487685060" ignored="false" />
+    <file path="/mod_request_friend_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410852794652" ignored="false" />
+    <file path="/game_server_http_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410772175319" ignored="false" />
+    <file path="/game_server_request.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410853770438" ignored="false" />
+    <file path="/game_server_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410776977217" ignored="false" />
+    <file path="/mod_check_register_user_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411996582746" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/dispatch_server_req.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416213974553" ignored="false" />
+    <file path="/dispatch_server_req.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411997295467" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411011668173" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416390305790" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417935508700" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643111034" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417870010460" ignored="false" />
+    <file path="/mail.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411537843284" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417935286582" ignored="false" />
+    <file path="/mail_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417935278460" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_id.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410919847762" ignored="false" />
+    <file path="/mail_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413374110707" ignored="false" />
+    <file path="/mail_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643111034" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929366775" ignored="false" />
+    <file path="/mail_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410868198682" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/var/config/mailcfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410868068137" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/mailctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410960909731" ignored="false" />
+    <file path="/mailctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410868211356" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/var/config/mail.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410868158243" ignored="false" />
+    <file path="/mail_id.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410868489378" ignored="false" />
+    <file path="/mod_check_device.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418627136449" ignored="false" />
+    <file path="/dispatch_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418641593093" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413450728078" ignored="false" />
+    <file path="/mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411891728412" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643069528" ignored="false" />
+    <file path="/mail_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643059337" ignored="false" />
+    <file path="/mail_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411896754279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418642623872" ignored="false" />
+    <file path="/mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418642590820" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_present_friend_strength.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269148571" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_work_ranking.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410942735953" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_ranking.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413266573555" ignored="false" />
+    <file path="/cache_ranking.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413266567934" ignored="false" />
+    <file path="/mod_bond_device.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418106118050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/ranking/ranking.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411029830168" ignored="false" />
+    <file path="/ranking.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1410949801170" ignored="false" />
+    <file path="/mod_present_friend_strength.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980587160" ignored="false" />
+    <file path="/mail_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411011668173" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411011690588" ignored="false" />
+    <file path="/adminserver_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411011690588" ignored="false" />
+    <file path="/dispatch.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416368824250" ignored="false" />
+    <file path="/mod_get_server_endless_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980394834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_sync_user_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220316250" ignored="false" />
+    <file path="/mod_sync_user_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980667571" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_lottery.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269119182" ignored="false" />
+    <file path="/mod_lottery.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416818716873" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_endless_germ.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269067089" ignored="false" />
+    <file path="/mod_get_endless_germ.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414741069834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/get_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411369672379" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269076091" ignored="false" />
+    <file path="/mod_get_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980361585" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_mail_attach.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269078970" ignored="false" />
+    <file path="/mod_get_mail_attach.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980373225" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_iap_buy.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220862813" ignored="false" />
+    <file path="/mod_iap_buy.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980410085" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_activity_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269064250" ignored="false" />
+    <file path="/mod_get_mission_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980380835" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_share_score.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269192594" ignored="false" />
+    <file path="/mod_share_score.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413980635752" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417576355000" ignored="false" />
+    <file path="/log_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417576337163" ignored="false" />
+    <file path="E:/erl5.9.2/lib/stdlib-1.18.2/src/calendar.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411818432711" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/fast_purchase.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1411975158761" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_fast_purchase.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269054970" ignored="false" />
+    <file path="/mod_fast_purchase.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417673194284" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414059953522" ignored="false" />
+    <file path="/cache_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414059845865" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417574988783" ignored="false" />
+    <file path="/log.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417574974536" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_log_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413807251334" ignored="false" />
+    <file path="/cache_log_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413807244054" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/db_cache/db_cache_api.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1412907831711" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417501168176" ignored="false" />
+    <file path="/log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413006120067" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414403871041" ignored="false" />
+    <file path="/log_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414403869062" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414562550327" ignored="false" />
+    <file path="/log_work_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414562550327" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413965810461" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session_statistics.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413982222197" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/session/session.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413859562370" ignored="false" />
+    <file path="/session.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413786798447" ignored="false" />
+    <file path="/session_statistics.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413981684177" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/gateway/mod/mod_iap_pay.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413795058468" ignored="false" />
+    <file path="/mod_iap_pay.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413795055044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415603700178" ignored="false" />
+    <file path="/adminserver.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415603698845" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417764954331" ignored="false" />
+    <file path="/cache.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1413964138644" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_data.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417937390158" ignored="false" />
+    <file path="/cache_data.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417937390158" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869831368" ignored="false" />
+    <file path="/adminserver_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415603766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_search_player.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418356576749" ignored="false" />
+    <file path="/mod_search_player.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415602487547" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_add_attach_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415948368941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_admin_add_tool.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415453146914" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_statistics.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415012517554" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/mod_statistics_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414121424374" ignored="false" />
+    <file path="/mod_statistics_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414121424374" ignored="false" />
+    <file path="/log_statistics.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415012517554" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_statistics_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869979347" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_sync_guide_step.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220313202" ignored="false" />
+    <file path="/mod_sync_guide_step.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414388096213" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_user_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415243243855" ignored="false" />
+    <file path="/stat_user_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014596525" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/logctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414572513260" ignored="false" />
+    <file path="/logctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414485077052" ignored="false" />
+    <file path="/log_statistics_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414669470616" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414572315799" ignored="false" />
+    <file path="/log_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414572151347" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_pay_user_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242498584" ignored="false" />
+    <file path="/stat_pay_user_retained.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013920086" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_pay_user.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242475721" ignored="false" />
+    <file path="/stat_pay_user.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013770194" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_pay_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013648111" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_endless_tollgate.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242314561" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_player_power_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414641171134" ignored="false" />
+    <file path="/stat_endless_tollgate.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013034711" ignored="false" />
+    <file path="/stat_pay_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013646308" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_tollgate.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415243213050" ignored="false" />
+    <file path="/stat_tollgate.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014349303" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_lottery.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242434685" ignored="false" />
+    <file path="/stat_lottery.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013030336" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_strengthen.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415243202792" ignored="false" />
+    <file path="/stat_strengthen.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014303077" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_shop.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242527036" ignored="false" />
+    <file path="/stat_shop.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242527036" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415242516575" ignored="false" />
+    <file path="/stat_reward.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014136678" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_new_player_mission.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418365739428" ignored="false" />
+    <file path="/stat_new_player_mission.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418364940916" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_pay_power.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414671204393" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_power_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014074719" ignored="false" />
+    <file path="/stat_power_rank.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415013974114" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/statistics/stat_user_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415243224147" ignored="false" />
+    <file path="/stat_user_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415014471324" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1414675600636" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_configure_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416819753328" ignored="false" />
+    <file path="/cache_configure_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415016425637" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269085645" ignored="false" />
+    <file path="/mod_get_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220738744" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_send_feedback.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220302587" ignored="false" />
+    <file path="/mod_send_feedback.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415089901820" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_fresh_player.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415678155787" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_admin_add_goal.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415584731467" ignored="false" />
+    <file path="/mod_admin_add_goal.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415433531173" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_backpack_oper.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417676304800" ignored="false" />
+    <file path="/mod_backpack_oper.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417676303556" ignored="false" />
+    <file path="/adminserver_http.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417764953912" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_delete_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415716057910" ignored="false" />
+    <file path="/mod_delete_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415716051701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_all_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415764065535" ignored="false" />
+    <file path="/mod_query_all_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415764054387" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_add_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415785055896" ignored="false" />
+    <file path="/mod_add_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415785051950" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_add_bulletin_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415875267798" ignored="false" />
+    <file path="/mod_add_bulletin_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415868207406" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415791234195" ignored="false" />
+    <file path="/mod_query_mail_template.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415791123653" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_delete_bulletin.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415876615097" ignored="false" />
+    <file path="/mod_delete_bulletin.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415876611081" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_all_bulletin_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415881442210" ignored="false" />
+    <file path="/mod_query_all_bulletin_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415878788680" ignored="false" />
+    <file path="/mod_add_attach_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1415948366290" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/bin/robotctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416363549137" ignored="false" />
+    <file path="/robotctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416315347978" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416216134397" ignored="false" />
+    <file path="/robot_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416216056910" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/var/log/robot.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416211135523" ignored="false" />
+    <file path="/robot.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418453005974" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418208501214" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416297296055" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416886834249" ignored="false" />
+    <file path="/robot_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418474101695" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416886755688" ignored="false" />
+    <file path="/robot.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416886754872" ignored="false" />
+    <file path="/robot_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418477340401" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/.idea/workspace.xml" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416403058029" ignored="false" />
+    <file path="/robot_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416297294285" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/robot/robot_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416291910917" ignored="false" />
+    <file path="/robot_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416291898203" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/src/dd_config.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416294308915" ignored="false" />
+    <file path="/dd_config.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416294308256" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test/robot/var/cfg/robot.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416886189405" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418219493753" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/gateway_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417683912068" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_admin_delete_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418356479437" ignored="false" />
+    <file path="/mod_admin_delete_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1416540951330" ignored="false" />
+    <file path="/mod_pp_login.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418025543057" ignored="false" />
+    <file path="/login_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418110214534" ignored="false" />
+    <file path="/login_pp.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418214872723" ignored="false" />
+    <file path="/mod_pp_check_device.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418627045414" ignored="false" />
+    <file path="/login_ios.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418042198432" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091268148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_web.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417692490325" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929378522" ignored="false" />
+    <file path="/http_proc_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091884839" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_deps.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091334022" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869955654" ignored="false" />
+    <file path="/httpprocctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091927585" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/bin/httpprocctl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091927585" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417584140543" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/var/config/http_proc.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417413626094" ignored="false" />
+    <file path="/http_proc.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417091734887" ignored="false" />
+    <file path="/http_proc_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869955332" ignored="false" />
+    <file path="/http_proc_web.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417092388929" ignored="false" />
+    <file path="/mod_pp.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417515573585" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_pp_pay.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417142615880" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417502019922" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp_ms.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417583014413" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417150524472" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417151964046" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/pp/mod_pp_ms_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417573103050" ignored="false" />
+    <file path="/mod_pp_ms.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417512634072" ignored="false" />
+    <file path="/mod_pp.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417421966174" ignored="false" />
+    <file path="/mod_pp_ms_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417573103050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/login/login_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417349382056" ignored="false" />
+    <file path="/login_proc.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417349379821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/dispatch/mod/mod_register.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351943208" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/dispatch/dispatch_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417346085356" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/login/login.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417346578609" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/database/database_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417349606555" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/database/database_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417347961592" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/login/login_cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417349157112" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/token/token_cache.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351096029" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/token/token_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351831804" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/token/token.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417351030795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server/src/token/mod/mod_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417352875411" ignored="false" />
+    <file path="/mod_account.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417352875411" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_pp_billno.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417404488683" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_pp_order.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417416993030" ignored="false" />
+    <file path="/mod_pp_order.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417416779494" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/pp_get_order.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417417689263" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_pp_get_billno.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269125696" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_pp_query_order.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269145370" ignored="false" />
+    <file path="/mod_pp_get_billno.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417427197181" ignored="false" />
+    <file path="/mod_pp_query_order.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417429212773" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/platform/http_proc_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417500819388" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417584983920" ignored="false" />
+    <file path="/http_proc_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417516842330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../WorldCup/ddr/src/http_proc/http_proc_log.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417514480961" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/http_proc/http_proc_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417579104309" ignored="false" />
+    <file path="/http_proc_sup.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417579068236" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_user_basic_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418269104159" ignored="false" />
+    <file path="/mod_get_user_basic_info.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418220783403" ignored="false" />
+    <file path="/gateway_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417683797143" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_distribution_gift.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417691164436" ignored="false" />
+    <file path="/mod_distribution_gift.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417691162963" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_shop_item.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417691190284" ignored="false" />
+    <file path="/mod_query_shop_item.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417691181727" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_notice_manager.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417778102569" ignored="false" />
+    <file path="/mod_notice_manager.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417778101694" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417778197904" ignored="false" />
+    <file path="/adminserver_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417778197108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_all_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417776797621" ignored="false" />
+    <file path="/mod_query_all_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417764376037" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/webmod/mod_query_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417776787764" ignored="false" />
+    <file path="/mod_query_notice.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417776786716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/deps/hash_service/src/hash_service_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417946145994" ignored="false" />
+    <file path="/hash_service_util.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417946145994" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/deps/hash_service/src/hash_service.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929596689" ignored="false" />
+    <file path="/hash_service.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417848970095" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/deps/hash_service/src/hash_service.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417849023794" ignored="false" />
+    <file path="/hash_service.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417849023794" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/deps/hash_service/src/hash_service_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417849133776" ignored="false" />
+    <file path="/hash_service_work.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417849123452" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../xj_gs/e_game_server/src/master/master_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417857800511" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/master/master_init.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417871758458" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/dd_ms.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869382264" ignored="false" />
+    <file path="/dd_ms.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417868914906" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_cache_proxy.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869817737" ignored="false" />
+    <file path="/adminserver_cache_proxy.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417869814817" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/master/master_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929288511" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/ranking/ranking_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929361302" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/log/log_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929372278" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/admin/adminserver_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417929391019" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/mail/mail_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417935608189" ignored="false" />
+    <file path="/mail_data.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1417935541874" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_post_error_msg.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418028812675" ignored="false" />
+    <file path="/mod_post_error_msg.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418028807650" ignored="false" />
+    <file path="/login_work_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418042417995" ignored="false" />
+    <file path="/dispatch_monitor.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418624729685" ignored="false" />
+    <file path="/gateway.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418219488229" ignored="false" />
+    <file path="$PROJECT_DIR$/../../robot_test/robot/src/robot/robot_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418450976843" ignored="false" />
+    <file path="/concurrency_test.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418456547732" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test1/robot/var/cfg/robot.cfg" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418453010094" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test1/robot/src/robot/robot_server.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418477341453" ignored="false" />
+    <file path="/concurrency_test.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418548376820" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/concurrency_test.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418548402080" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/concurrency_test.hrl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418471831308" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test1/robot/src/robot/robot_app.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418473320574" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test1/robot/src/robot/robot_impl.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418475348647" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/cache/cache_data_mgr.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418546686002" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../robot_test1/robot/src/robot/tempfile.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418544036667" ignored="false" />
+    <file path="/cache_data_mgr.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418546685229" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../xj_ds/e_dispatch_server/src/dbmgr/dbmgr_db.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418614192708" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/get_mass_attach_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643194575" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tower/tower_server/src/gateway/mod/mod_get_mass_attach_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643664517" ignored="false" />
+    <file path="/mod_get_mass_attach_mail.erl" changelist="68b932fa-2e3f-4019-98c5-399001e9740f" time="1418643650535" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tower_dispatch_server" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dispatch_http.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dispatch/dispatch_http.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="64" selection-start="1250" selection-end="1250" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_pp_check_device.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_check_device.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="59" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_db.erl" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/database/database_db.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="221" column="21" selection-start="8907" selection-end="8907" vertical-scroll-proportion="-0.01836969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_check_register_user_data.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/token/mod/mod_check_register_user_data.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_game_server_register.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/token/mod/mod_game_server_register.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="38" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_init.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/database/database_init.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_check_device.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dispatch/mod/mod_check_device.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="47" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dd_util.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dd_util.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="20" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_pp_login.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_login.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="23" selection-start="3183" selection-end="3183" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_cache.erl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/login/login_cache.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="171" column="29" selection-start="6086" selection-end="6086" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/login/login_work.erl" />
+        <option value="$PROJECT_DIR$/src/login/pp/login_pp.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/concurrency_test.hrl" />
+        <option value="$PROJECT_DIR$/src/dispatch/dispatch_sup.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/concurrency_test.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/dispatch_monitor.erl" />
+        <option value="$PROJECT_DIR$/src/login/login_impl.erl" />
+        <option value="$PROJECT_DIR$/src/token/token_cache.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_check_device.erl" />
+        <option value="$PROJECT_DIR$/src/login/login_cache.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/dispatch_util.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/mod/mod_check_device.erl" />
+        <option value="$PROJECT_DIR$/src/database/database_db.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_login.erl" />
+        <option value="$PROJECT_DIR$/src/dd_util.erl" />
+        <option value="$PROJECT_DIR$/src/dispatch/dispatch_http.erl" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="token" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="token" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dispatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dispatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_pp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dispatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tower_dispatch_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ogresugar_server/ogresugar_server" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\dev\server\erl_server\tower_dispatch\tower_dispatch_server\src\login\ios" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application">
+      <module name="" />
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="name" value="Erlang" />
+      <option name="params" value="" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b932fa-2e3f-4019-98c5-399001e9740f" name="Default" comment="" />
+      <created>1406016584488</created>
+      <updated>1406016584488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21458334" sideWeight="0.5826087" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4173913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dispatch/mod/mod_login.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/database.app.src">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/database.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/dispatch_util.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="9" selection-start="3448" selection-end="3448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/dispatch_monitor.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="46" selection-start="2114" selection-end="2114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/token/token_cache.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="47" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login/login_cache.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="29" selection-start="6086" selection-end="6086" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/mod/mod_check_device.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="47" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_check_device.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="59" selection-start="1253" selection-end="1253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/database_init.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/token/mod/mod_check_register_user_data.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/token/mod/mod_game_server_register.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="38" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dd_util.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="20" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/mod_pp/mod_pp_login.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="23" selection-start="3183" selection-end="3183" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dispatch/dispatch_http.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="64" selection-start="1250" selection-end="1250" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/database_db.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="21" selection-start="8907" selection-end="8907" vertical-scroll-proportion="-0.01836969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

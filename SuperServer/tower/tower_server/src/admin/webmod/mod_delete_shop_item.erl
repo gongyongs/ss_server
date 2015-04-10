@@ -1,0 +1,60 @@
+%%%-------------------------------------------------------------------
+%%% @author Administrator
+%%% @copyright (C) 2014, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 13. 八月 2014 17:46
+%%%-------------------------------------------------------------------
+-module(mod_delete_shop_item).
+-author(j).
+-export([req_handle/1]).
+
+-include("../adminserver.hrl").
+-include("../../../deps/file_log/include/file_log.hrl").
+%% API
+
+req_handle(Req) ->
+  Method = Req:get(method), true = (Method =:= ?POST),
+  PostData = Req:parse_post(),
+
+  OperCode =
+    try
+      dd_util:to_list(proplists:get_value("oper_code", PostData, undefined))
+    catch
+      _:_ ->
+        Ret0 = {struct,[{<<"result">>, -1},{<<"error">>, <<"request param error">>}]},
+        throw({custom, Ret0})
+    end,
+
+  UserName =
+    case adminserver_cache_proxy:get_admin(OperCode) of
+      fail ->
+        Ret1 = {struct,[{<<"result">>, -1},{<<"error">>, <<"Illegal Operation, Please login again">>}]},
+        throw({custom, Ret1});
+      {success, AdminUName} -> AdminUName;
+      _Other ->
+        Ret2 = {struct,[{<<"result">>, -1},{<<"error">>, <<"system error">>}]},
+        throw({custom, Ret2})
+    end,
+  ?FILE_LOG_DEBUG("mod_add_shop_item => oper_code=~p, uname=~p.", [OperCode, UserName]),
+
+  Shop_id = dd_util:to_list(proplists:get_value("shop_id", PostData, undefined)),
+
+  case adminserver_db:delete_shop_item(Shop_id) of           %删除商城物品
+    success->
+      {
+        struct,
+        [
+          {<<"result">>, 0}
+        ]
+      };
+    {fail, Reason} ->
+      {
+        struct,
+        [
+          {<<"result">>, -1},
+          {<<"error">>, dd_util:to_binary(Reason)}
+        ]
+      }
+  end.

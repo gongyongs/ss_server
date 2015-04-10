@@ -1,0 +1,9 @@
+﻿ID,Chinese,English
+ID_s,Chinese_s,English_s
+MailTemplate_T001,我送你 # 点体力，记得回赠哦~！,"I've sent you # stamina, remember to send me back!"
+MailTemplate_T002,恭喜你本周在好友排行获得冠军！,Congratulations on winning the 1st place in the friends rank.
+MailTemplate_T003,恭喜你本周在好友排行获得亚军！,Congratulations on winning the 2nd place in the friends rank.
+MailTemplate_T004,恭喜你本周在好友排行获得季军！,Congratulations on winning the 3rd place in the friends rank.
+MailTemplate_T005,恭喜你本周在世界排行进入前10%！,Congratulations on ranking in the top 10% of the server.
+MailTemplate_T006,恭喜你本周在世界排行进入前20%！,Congratulations on ranking in the top 20% of the server.
+MailTemplate_T007,恭喜你本周在世界排行进入前30%！,Congratulations on ranking in the top 30% of the server.

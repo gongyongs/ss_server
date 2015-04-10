@@ -1,0 +1,8 @@
+{application, token,
+ [{description, "TOKEN"},
+  {vsn, "1.0.0"},
+  {modules, [token]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {token_app, []}}]}.

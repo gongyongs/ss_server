@@ -1,0 +1,8 @@
+{application, master,
+ [{description, "MASTER"},
+  {vsn, "1.0.0"},
+  {modules, [master]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {master_app, []}}]}.

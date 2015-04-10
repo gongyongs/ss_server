@@ -1,0 +1,8 @@
+{application, mail,
+  [{description, "mail"},
+    {vsn, "1.0.0"},
+    {modules, [mail]},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []},
+    {mod, {mail_app, []}}]}.

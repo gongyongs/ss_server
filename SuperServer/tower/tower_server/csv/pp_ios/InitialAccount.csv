@@ -1,0 +1,3 @@
+﻿玩家初始设置ID,初始金币,初始钻石, 初始体力,初始背包,初始角色(玩家初始拥有的),初始道具,初始材料,初始装备的塔(顺序决定界面)
+ID,InitGold,InitGem,InitStrength,InitCapacity,InitHeroIDs,InitPropertys,InitMaterials,InitEquipTower
+1,0,0,100,50,T01;T02;T03;T04;T05,DJ103;DJ103;DJ103;DJ103;DJ202;DJ202;DJ202;DJ202;DJ202;DJ103;,,T01;T02;T03;T04;T05

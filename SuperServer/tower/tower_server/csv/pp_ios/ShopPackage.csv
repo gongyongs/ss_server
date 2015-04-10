@@ -1,0 +1,5 @@
+﻿礼包ID,礼包名字,道具1类型（1=金币，2=钻石，3=道具）,道具1ID,道具1数量,道具2类型（1=金币，2=钻石，3=道具）,道具2ID,道具2数量,道具2类型（1=金币，2=钻石，4=道具）,道具3ID,道具3数量,道具2类型（1=金币，2=钻石，5=道具）,道具4ID,道具4数量,道具2类型（1=金币，2=钻石，6=道具）,道具5ID,道具5数量
+PackageID_s,Name_s,Type1_n,Tools1ID_s,Tools1Number_n,Type2_n,Tools2ID_s,Tools2Number_n,Type3_n,Tools3ID_s,Tools3Number_n,Type4_n,Tools4ID_s,Tools4Number_n,Type5_n,Tools5ID_s,Tools5Number_n
+Package_B_10,地震道具包,3,DJ103,10,3,,0,0,,0,0,,0,0,,0
+Package_F_10,冻结道具包,3,DJ202,10,3,,0,0,,0,0,,0,0,,0
+Package_B_5_F_5,道具综合礼包,3,DJ103,5,3,DJ202,5,0,,0,0,,0,0,,0

@@ -1,0 +1,8 @@
+{application, ranking,
+ [{description, "RANKING"},
+  {vsn, "1.0.0"},
+  {modules, [ranking]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {ranking_app, []}}]}.

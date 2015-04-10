@@ -1,0 +1,8 @@
+{application, dispatch,
+ [{description, "DISPATCH"},
+  {vsn, "1.0.0"},
+  {modules, [dispatch]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {dispatch_app, []}}]}.

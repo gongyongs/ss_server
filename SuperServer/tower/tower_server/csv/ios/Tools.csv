@@ -1,0 +1,4 @@
+﻿道具id,道具名称,道具类型,道具效果1,道具效果2,伤害百分比,全屏特效名,全屏特效路径,怪物身上的爆炸特效名,怪物身上的debuff特效名,道具使用cd,道具图片id,CD时间,图片id
+toolID_ks,toolName_c,toolType_n,toolEff1_n,toolEff2_n,DamagePercentage_n,winEff_s,path_s,boomEff_s,debuffEff_s,cd_n,photo_s,cd_n,photo_s
+DJ103,地震,5,8000,0,30,Eff_FullScreenMeteor,Eff/All/Eff_FullScreenMeteor/,0,0,10,gameMeteorites.png,10,gameMeteorites.png
+DJ202,冻结,7,0,5000,0,Eff_FullScreenFrozen,Eff/All/Eff_FullScreenFrozen/,0,eff_ice_1.ccb,10,gameIce.png,10,gameIce.png

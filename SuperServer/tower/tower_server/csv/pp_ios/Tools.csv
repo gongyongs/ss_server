@@ -1,0 +1,13 @@
+﻿道具id,道具名称,道具类型,道具效果1,道具效果2,伤害百分比,全屏特效名,全屏特效路径,怪物身上的爆炸特效名,怪物身上的debuff特效名,塔身上特效,道具使用cd,道具图片id
+toolID_ks,toolName_c,toolType_n,toolEff1_n,toolEff2_n,DamagePercentage_n,winEff_s,path_s,boomEff_s,debuffEff_s,towerEff_s,cd_n,photo_s
+DJ103,地震,5,8000,0,30,eff_FullScreenMeteor,Eff/All/eff_FullScreenMeteor/,0,0,0,10,ui/CommonIcon/gameMeteorites.png
+DJ202,冻结,7,0,5,0,eff_FullScreenFrozen,Eff/All/eff_FullScreenFrozen/,0,Freeze_Hit,0,10,ui/CommonIcon/gameIce.png
+DJ002,彩虹药剂,8,100,0,0,eff_FullScreenFrozen,,0,0,eff_Tower_Upgrade,10,ui/CommonIcon/gameIce.png
+DJ003,时间延缓,9,0.5,5,0,eff_FullScreenFrozen,,0,0,0,10,ui/CommonIcon/gameIce.png
+DJ004,空中补给,10,0,0,0,eff_FullScreenFrozen,,0,0,eff_Tower_Upgrade,10,ui/CommonIcon/gameIce.png
+DJ005,保护药剂,11,0,0,0,eff_FullScreenFrozen,,0,0,EnergyCleanse_Hit,10,ui/CommonIcon/gameIce.png
+DJ006,怒气药水,12,100,0,0,eff_FullScreenFrozen,,0,0,Ex_RoadGrid_MATK,10,ui/CommonIcon/gameIce.png
+DJ007,法力药水,13,100,0,0,eff_FullScreenFrozen,,0,0,Ex_RoadGrid_ATK,10,ui/CommonIcon/gameIce.png
+DJ008,能量药水,14,100,0,0,eff_FullScreenFrozen,,0,0,Ex_RoadGrid_Energy,10,ui/CommonIcon/gameIce.png
+DJ009,团队保护药剂,15,0,0,0,eff_FullScreenFrozen,,0,0,EnergyCleanse_Hit,10,ui/CommonIcon/gameIce.png
+DJ010,变废为宝,16,2,0,0,eff_FullScreenFrozen,,0,0,0,10,ui/CommonIcon/gameIce.png

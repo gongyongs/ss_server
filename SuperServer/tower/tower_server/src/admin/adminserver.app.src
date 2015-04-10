@@ -1,0 +1,8 @@
+{application, adminserver,
+  [{description, "adminserver"},
+    {vsn, "1.0.0"},
+    {modules, [adminserver]},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []},
+    {mod, {adminserver_app, []}}]}.

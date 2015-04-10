@@ -1,0 +1,22 @@
+{application, file_log,
+ [{description, "FILE LOG SERVER"},
+  {vsn, "1.0.0"},
+  {modules, [file_dynamic,
+             file_log,
+             file_log_app,
+             file_log_server,
+             file_log_sup]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+
+  %%%                   ==========
+  %%%                   log config
+  %%%
+  %%% level           - error | warning | info | debug
+  %%% rotate_interval - seconds
+  %%%
+  %%% e.g.
+  %%% 3600 * 6 = 21600 seconds
+
+  {env, []},
+  {mod, {file_log_app, []}}]}.

@@ -1,0 +1,7 @@
+﻿需要达到的活跃点,奖励类型,奖励道具Id,奖励数量
+ActivePoint_ks,RewardType_n,RewardPropertyID_s,RewardNum_n
+20,1,,1000
+40,1,,2000
+60,1,,5000
+80,2,,20
+100,2,,50

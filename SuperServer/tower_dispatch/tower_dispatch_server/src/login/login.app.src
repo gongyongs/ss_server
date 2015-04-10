@@ -1,0 +1,8 @@
+{application, login,
+ [{description, "LOGIN"},
+  {vsn, "1.0.0"},
+  {modules, [login]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {login_app, []}}]}.

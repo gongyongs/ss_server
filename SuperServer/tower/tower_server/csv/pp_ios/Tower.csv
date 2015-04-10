@@ -1,0 +1,9 @@
+﻿炮塔ID,名字,等级,类别,子弹类型,模型名字,路径,武器显示图片路径,普通价格（用于一级炮塔）,第一次升级,第二次升级,售出价格,基础物理攻击等级,基础魔法攻击等级,基础暴击等级,基础暴击伤害等级,基础命中等级,基础速度等级,基础武器,基础副武器,基础帽子,攻击类型,主动技能铭文,被动技能铭文,普攻铭文,通用/特殊铭文
+ID_ks,Name_c,Level_n,Type_n,BulletType_n,ModelID_s,ModelFile_s,WeaponFile_s,NormalPrice_n,Upgrade1_n,Upgrade2_n,SellPrice_n,PAttLvl_n,MAttLvl_n,CritLvl_n,CritDamLvl_n,ToHitLvl_n,SpdLvl_n,BaseWeapon_s,BaseOffWeapon_s,BaseHat_s,AtkType_n,ActiveInscription_s,PassiveInscription_s,AttackInscription_s,GeneralInscription_s
+T01,洋葱剑士,1,1,1,swordsman,Tower/chr_swordsman_sml/swordsman.ExportJson,equip/equipment_swordsman.plist,75,100,125,45,5,5,5,0,5,0,YC00S1T1,YC10S1T1,YC20S1T1,1,,,,
+T02,蘑菇召唤师,1,2,2,summoner,Tower/chr_summoner_sml/summoner.ExportJson,equip/equipment_summoner.plist,100,125,150,60,5,5,5,0,5,0,MG00S1T1,MG10S1T1,MG20S1T1,2,,,,
+T03,西兰花拳手,1,3,1,boxer,Tower/chr_boxer_sml/boxer.ExportJson,equip/equipment_boxer.plist,125,150,175,75,5,5,5,0,5,0,XLH00S1T1,XLH10S1T1,XLH20S1T1,1,,,,
+T04,花生枪手,1,4,2,gunner,Tower/chr_gunner_sml/gunner.ExportJson,equip/equipment_gunner.plist,150,175,200,90,5,5,5,0,5,0,HS00S1T1,HS10S1T1,HS20S1T1,1,,,,
+T05,南瓜法师,1,5,2,mage,Tower/chr_mage_sml/mage.ExportJson,equip/equipment_mage.plist,200,240,260,120,5,5,5,0,5,0,NG00S1T1,NG10S1T1,NG20S1T1,2,,,,
+T06,土豆枪手,1,6,2,potato,Tower/chr_potato_sml/potato.ExportJson,equip/equipment_gunner.plist,160,180,200,96,5,5,5,0,5,0,TD00S1T1,TD10S1T1,TD20S1T1,1,,,,
+T07,蓝莓大法师,1,7,2,blueberry,Tower/chr_blueberry_sml/blueberry.ExportJson,equip/equipment_summoner.plist,110,130,160,66,5,5,5,0,5,0,LM00S1T1,LM10S1T1,LM20S1T1,2,,,,

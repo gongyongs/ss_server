@@ -1,0 +1,25 @@
+﻿ID,物品名称,加载图片,物品ID,购买类型(1=钻石，2=金币，3=道具礼包，4=道具，5=体力),购买数量,消耗类型（1=钻石，2=金币，3=人民币）,消耗数量,促销原价,折扣限时,赠送类型（1=钻石，2=金币，3=道具礼包，4=道具，5=体力）,赠送道具,赠送数量,限购次数（0=不限购）,限次刷新时间（0=不限购，1=每天，2=永久）,是否推荐（0=否，1=是）,开始时间,结束时间,促销方式（1=打折促销IJ，2=限时购买QR，3=限时折扣JQR，4=首次购买优惠INO，5=限次购买NO）,显示开关（0=开，1=关）,排序
+ID_ks,Name_s,Image_s,ToolsID_s,BuyType_n,BuyNumber_n,UseType_n,UseNumber_n,Price_s,Discount_s,GiftType_n,GiftToolsID_s,GiftNumber_n,Restriction_n,Refresh_n,Recommended_n,StartTime_s,OverTime_s,Promotions_n,view_n,queue_n
+Diamond_80,80钻石（富钻大礼包）,ui/Nshop/shopIconDiamond_S.png,com.ogresugar.yumsaga.Diamond_80,1,80,3,1.99,0,,1,,0,0,0,0,,,0,1,1
+Diamond_80_1,8折80钻石（富钻特别礼包）,ui/Nshop/shopIconDiamond_S.png,com.ogresugar.yumsaga.Diamond_80,1,80,3,1.59,1.99,80% OFF,1,,0,0,0,1,,,1,1,2
+Diamond_400,400送20钻石（豪气大礼包）,ui/Nshop/shopIconDiamond_M.png,com.ogresugar.yumsaga.Diamond_420,1,400,3,9.99,0,,1,,20,0,0,0,,,0,1,3
+Diamond_400_2,限时400送50钻石（豪气特别礼包）,ui/Nshop/shopIconDiamond_M.png,com.ogresugar.yumsaga.Diamond_420,1,400,3,9.99,0,,1,,50,0,0,1,2014/11/11,2014/12/31,2,1,4
+Diamond_400_4,首购400送400钻石（豪气首购礼包）,ui/Nshop/shopIconDiamond_L.png,com.ogresugar.yumsaga.Diamond_800,1,400,3,9.99,0,,1,,400,1,2,1,,,5,1,5
+Diamond_800,800送80钻石（盛荣大礼包）,ui/Nshop/shopIconDiamond_N.png,com.ogresugar.yumsaga.Diamond_880,1,800,3,19.99,0,,1,,80,0,0,0,,,0,1,6
+Diamond_800_3,限时8折800送80钻石（盛荣限时礼包）,ui/Nshop/shopIconDiamond_N.png,com.ogresugar.yumsaga.Diamond_880,1,800,3,15.99,19.99,80% OFF,1,,80,0,0,1,2014/11/11,2014/12/31,3,1,7
+Diamond_2000,2000送300钻石（至尊大礼包）,ui/Nshop/shopIconDiamond_XL.png,com.ogresugar.yumsaga.Diamond_2300,1,2000,3,49.99,0,,1,,300,0,0,0,,,0,1,8
+Diamond_2000_4,首购2000送2000钻石（至尊首购礼包）,ui/Nshop/shopIconDiamond_XXL.png,com.ogresugar.yumsaga.Diamond_4000,1,2000,3,49.99,0,,1,,2000,1,2,1,,,5,1,9
+Diamond_4000,4000送800钻石（钻豪大礼包）,ui/Nshop/shopIconDiamond_XXXL.png,com.ogresugar.yumsaga.Diamond_4800,1,4000,3,99.99,0,,1,,800,0,0,0,,,0,1,10
+Diamond_4000_5,限3次4000送1200钻石（钻豪限购礼包）,ui/Nshop/shopIconDiamond_XXXL.png,com.ogresugar.yumsaga.Diamond_4800,1,4000,3,99.99,0,,1,,1200,3,0,1,,,5,1,11
+Gold_2500,盛金大礼包,ui/Nshop/shopIconGold_S.png,,2,50000,1,100,0,,0,,0,0,0,0,,,0,0,12
+Gold_5000,盛金超级礼包,ui/Nshop/shopIconGold_M.png,,2,100000,1,200,0,,0,,0,0,0,0,,,0,0,13
+Gold_10000,金豪小礼包,ui/Nshop/shopIconGold_L.png,,2,250000,1,500,0,,0,,0,0,0,0,,,0,0,14
+Gold_25000,金豪大礼包,ui/Nshop/shopIconGold_XXL.png,,2,500000,1,1000,0,,0,,0,0,0,0,,,0,0,15
+Gold_50000,金豪超级礼包,ui/Nshop/shopIconGold_XXXL.png,,2,1000000,1,2000,0,,0,,0,0,0,0,,,0,0,16
+Bomb_1,爆破魔石,ui/CommonIcon/gameMeteorites.png,DJ103,4,1,1,100,0,,0,,0,0,0,0,,,0,0,17
+Freeze_1,冻结魔石,ui/CommonIcon/gameIce.png,DJ202,4,1,2,1500,0,,0,,0,0,0,0,,,0,0,18
+Bomb_10,爆炸大礼包,ui/CommonIcon/gameMeteoritesBag.png,Package_B_10,3,1,1,980,0,,0,,0,0,0,1,,,0,0,19
+Freeze_10,冰霜大礼包,ui/CommonIcon/gameIceBag.png,Package_F_10,3,1,2,14888,0,,0,,0,0,0,1,,,0,0,20
+BombFreeze_5,道具综合礼包（王者特别礼包）,ui/CommonIcon/gameMix.png,Package_B_5_F_5,3,1,1,780,0,,5,,2,0,0,1,,,0,0,21
+BombFreeze_5_4,道具综合礼包,ui/CommonIcon/gameMix.png,Package_B_5_F_5,3,1,1,680,780,,5,,2,1,2,1,,,4,0,22
+Time_1,时间延缓,ui/CommonIcon/gameMix.png,DJ003,3,1,2,500,0,,0,,0,0,0,0,,,0,0,23

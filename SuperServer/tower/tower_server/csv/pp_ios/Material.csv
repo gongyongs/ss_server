@@ -1,0 +1,2 @@
+﻿材料id,材料名称,材料图片,星级,售出价格,吞噬获取经验,可以合成的材料,需求的数量,材料/描述
+ID_ks,Name_c,ModelID_s,Star_n,SellPrice_n,XPGain_n,Evolv_s,Evolv_n,Description_c

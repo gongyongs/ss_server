@@ -1,0 +1,8 @@
+{application, sys_log,
+ [{description, "SYS_LOG"},
+  {vsn, "1.0.0"},
+  {modules, [sys_log]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {sys_log_app, []}}]}.

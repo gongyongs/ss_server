@@ -1,0 +1,9 @@
+﻿模板ID,模板类型Type(1:内容由系统自动填充，2：表示内容由管理员填充),模板标签,标题,内容(#表示根据附件填充的数值),附件ID（1=金币 2=钻石 3=体力 4=道具）,道具ID,附件数量,有效期
+Template_s,TemplateType_n,TemplateTag_s,Title_s,Content_s,AttachmentID_s,ToolsID_s,AttachmentNum_n,
+T001,1,power_gift,,MailTemplate_T001,3,,2,7
+T002,1,fiendsrank_first,,MailTemplate_T002,1,,500,7
+T003,1,fiendsrank_second,,MailTemplate_T003,1,,300,7
+T004,1,fiendsrank_third,,MailTemplate_T004,1,,100,7
+T005,1,worldrank_first,,MailTemplate_T005,2,,100,7
+T006,1,worldrank_second,,MailTemplate_T006,2,,50,7
+T007,1,worldrank_third,,MailTemplate_T007,2,,10,7
